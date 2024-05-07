@@ -6,6 +6,7 @@
 // @author       https://github.com/vasyan
 // @match        https://somafm.com/player/*
 // @grant        none
+// @license MIT
 // ==/UserScript==
 
 (function() {
